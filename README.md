@@ -1,8 +1,9 @@
 
 
-<!-- Hero Banner Animation -->
+
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://svgur.com/i/18gA.svg" width="100%" alt="MERN Chat App Hero Banner"/>
+  <img src="https://i.imgur.com/2yaf2wb.png" width="100%" alt="MERN Chat App Hero Banner"/>
 </p>
 
 <!-- Animated Header -->
@@ -27,8 +28,9 @@
   <img src="https://img.shields.io/github/issues/Uzairrr21/mern-chat-app?style=for-the-badge&color=6B8C42"/>
 </p>
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gB.svg" width="80%" alt="Animated Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="80%" alt="Section Divider"/>
 </p>
 
 
@@ -41,8 +43,9 @@
 
 A <b>professional, modern, and fully responsive</b> real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js). This project demonstrates best practices in full-stack development, authentication, socket communication, and beautiful UI/UX design.<br>
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gC.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -62,8 +65,9 @@ A <b>professional, modern, and fully responsive</b> real-time chat application b
   <li>🚀 <b>Production Ready:</b> Clean code, error handling, and security</li>
 </ul>
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gD.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -96,8 +100,9 @@ mern-chat-app/
 ```
 </details>
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gE.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -117,8 +122,9 @@ mern-chat-app/
   </tr>
 </table>
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gF.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -134,8 +140,9 @@ mern-chat-app/
 - <span style="color:#4A6FA5;">Error Feedback:</span> Animated error messages for better UX
 - <span style="color:#6B8C42;">Pulse & Fade Animations:</span> Engaging transitions for chat bubbles and forms
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gG.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -151,8 +158,9 @@ mern-chat-app/
   <li><b>Logout:</b> Securely ends session</li>
 </ol>
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gH.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -167,8 +175,9 @@ mern-chat-app/
 - <span style="color:#FF8C42;">Message Bubbles:</span> Sent/received messages styled distinctly
 - <span style="color:#4A6FA5;">Live Connection Status:</span> Animated online/offline indicators
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gI.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -201,8 +210,9 @@ npm start
 # 6. Visit http://localhost:3000
 ```
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gJ.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -218,8 +228,9 @@ npm start
 - <span style="color:#4A6FA5;">routes/:</span> API endpoints for auth, users, messages
 - <span style="color:#6B8C42;">config/:</span> DB connection and app config
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gK.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -234,8 +245,9 @@ npm start
 - <span style="color:#FF8C42;">pages/:</span> AuthPage (login/register), ChatPage (chat UI)
 - <span style="color:#4A6FA5;">styles/main.css:</span> Professional, animated, responsive styles
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gL.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -248,8 +260,9 @@ npm start
 - <span style="color:#4A6FA5;">Environment variables</span> for production secrets
 - <span style="color:#6B8C42;">Secure, scalable architecture</span>
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gM.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
@@ -261,16 +274,18 @@ npm start
 - <b>GitHub:</b> <a href="https://github.com/Uzairrr21" style="color:#FF8C42;font-weight:bold;">Uzairrr21</a>
 - <b>Email:</b> <a href="mailto:uzairmoazzam21@gmail.com" style="color:#4A6FA5;font-weight:bold;">uzairmoazzam21@gmail.com</a>
 
+
 <p align="center">
-  <img src="https://svgur.com/i/18gN.svg" width="70%" alt="Animated Section Divider"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="70%" alt="Section Divider"/>
 </p>
 
 
 
 ## 🏆 Credits & License
 
+
 <div align="center">
-  <img src="https://svgur.com/i/18gO.svg" width="120"/>
+  <img src="https://i.imgur.com/2yaf2wb.png" width="120"/>
   <br/>
   <b style="font-size:1.2rem; color:#FF8C42;">Made with ❤️ by <a href="https://github.com/Uzairrr21" style="color:#FF8C42;">Uzairrr21</a></b>
   <br/>
@@ -280,8 +295,9 @@ npm start
 ---
 
 <!-- Animated Footer -->
+
 <p align="center">
-  <img src="https://svgur.com/i/18gP.svg" width="100%"/>
+  <img src="https://i.imgur.com/8Q2QbQp.png" width="100%"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1000&color=FF8C42&center=true&vCenter=true&width=900&lines=Happy+Chatting!;⭐+Star+the+repo+if+you+love+it!;Contributions+Welcome!" alt="Animated footer"/>
 </p>
